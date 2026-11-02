@@ -1,0 +1,60 @@
+SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT
+
+THIS AGREEMENT is entered into as of October 31, 2026 ("Effective Date"), by and between TechCorp Solutions Inc., a Delaware corporation ("Company"), and Digital Innovations LLC, a California limited liability company ("Provider").
+
+RECITALS
+
+WHEREAS, Company desires to engage Provider to develop custom software applications and provide related services; and
+
+WHEREAS, Provider agrees to provide such services under the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+
+Provider shall develop, test, and deliver a custom enterprise resource planning (ERP) software system according to the specifications outlined in Exhibit A. The software shall include modules for inventory management, financial reporting, customer relationship management, and human resources administration. Provider shall provide ongoing maintenance and support for a period of twelve (12) months following initial deployment.
+
+2. PAYMENT TERMS
+
+Company shall pay Provider a total project fee of Two Hundred Fifty Thousand Dollars ($250,000), payable in installments as follows: (a) Twenty-Five Percent (25%) upon execution of this Agreement; (b) Twenty-Five Percent (25%) upon completion of the design phase; (c) Twenty-Five Percent (25%) upon delivery of the beta version; and (d) Twenty-Five Percent (25%) upon final acceptance. All payments are due within thirty (30) days of invoice. Late payments shall accrue interest at the rate of one and one-half percent (1.5%) per month.
+
+3. INDEMNIFICATION
+
+Provider shall indemnify, defend, and hold harmless Company, its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to Provider's performance under this Agreement, including but not limited to claims of intellectual property infringement, breach of third-party contracts, negligence, or violations of applicable laws. Provider's indemnification obligations shall apply regardless of whether such claims arise from Provider's intentional acts, negligence, strict liability, or any other legal theory, and shall survive the termination or expiration of this Agreement. Provider agrees that there shall be no cap or limitation on the amount of liability for indemnification under this Section.
+
+4. INTELLECTUAL PROPERTY RIGHTS
+
+All intellectual property rights, including but not limited to copyrights, patents, trade secrets, trademarks, and any derivative works created or developed by Provider in connection with the services provided under this Agreement, shall be and remain the sole and exclusive property of Company. Provider hereby irrevocably assigns, transfers, and conveys to Company all right, title, and interest in and to such intellectual property, including all moral rights, throughout the world. Provider agrees to execute any additional documents necessary to effectuate such assignment.
+
+5. CONFIDENTIALITY
+
+Each party acknowledges that in the course of performing under this Agreement, it may receive or have access to confidential and proprietary information of the other party, including but not limited to business plans, financial information, customer lists, trade secrets, technical data, software source code, and marketing strategies ("Confidential Information"). Each party agrees to maintain the confidentiality of such information and not to disclose, publish, or disseminate such Confidential Information to any third party without the prior written consent of the disclosing party. The receiving party shall use the same degree of care to protect the Confidential Information as it uses to protect its own confidential information, but in no event less than reasonable care. These confidentiality obligations shall survive the termination of this Agreement and continue for a period of five (5) years thereafter.
+
+6. TERMINATION
+
+Company may terminate this Agreement at any time, with or without cause, and without prior written notice to Provider. Upon such termination, Provider shall immediately cease all work, deliver all completed and partially completed work product to Company, and return or destroy all Confidential Information. Provider shall be entitled to payment only for services satisfactorily completed prior to the effective date of termination, as determined by Company in its sole discretion. Company shall have no obligation to pay for work in progress, and Provider waives any claim for anticipated profits or consequential damages arising from early termination.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL PROVIDER BE LIABLE TO COMPANY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, LOSS OF BUSINESS OPPORTUNITIES, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), EVEN IF PROVIDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions. Any dispute arising out of or relating to this Agreement shall be resolved exclusively in the state or federal courts located in Wilmington, Delaware, and each party hereby consents to the personal jurisdiction of such courts.
+
+9. INDEPENDENT CONTRACTOR
+
+Provider is an independent contractor and not an employee, agent, partner, or joint venturer of Company. Provider shall be solely responsible for all taxes, withholdings, and other statutory obligations related to compensation paid under this Agreement.
+
+10. ENTIRE AGREEMENT
+
+This Agreement, including all exhibits attached hereto, constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions, whether oral or written. This Agreement may be modified only by a written instrument signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+TECHCORP SOLUTIONS INC.                    DIGITAL INNOVATIONS LLC
+
+By: _________________________              By: _________________________
+Name: Sarah Mitchell                       Name: David Chen
+Title: Chief Executive Officer            Title: Managing Director
+Date: October 31, 2026                    Date: October 31, 2026

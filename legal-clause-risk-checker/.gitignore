@@ -1,0 +1,26 @@
+# Data (gitignored by design)
+data/raw/
+data/processed/
+
+# Fine-tuning adapters
+finetune/adapters/
+
+# ChromaDB persistence
+.chroma/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
